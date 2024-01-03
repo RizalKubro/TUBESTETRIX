@@ -1,0 +1,7 @@
+<resources>
+    <style name="LaunchTheme" parent="@android:style/Theme.Material.Light">
+    </style>
+
+    <style name="NormalTheme" parent="@android:style/Theme.Material.Light">
+    </style>
+</resources>

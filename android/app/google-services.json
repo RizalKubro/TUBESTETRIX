@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "699302127485",
+    "project_id": "tetrix-fc16f",
+    "storage_bucket": "tetrix-fc16f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699302127485:android:4d70c0d48d8e0239008e14",
+        "android_client_info": {
+          "package_name": "com.example.tetrix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgr_yuJvzVPjIrU56V1zktv4YuxilT5Bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
